@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream Pro",
+  "description": "Unified multi-platform media streaming hub with ad-blocking WebViews, background playback, Media3 ExoPlayer, curated Hindi & English RSS categories, cross-platform playlists, and download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

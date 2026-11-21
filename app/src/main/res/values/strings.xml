@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">OmniStream Pro</string>
+
+    <!-- Navigation -->
+    <string name="nav_hub">Stream Hub</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Stream Hub -->
+    <string name="hub_url_hint">Enter URL or search web...</string>
+    <string name="hub_guest_mode">Guest</string>
+    <string name="hub_signed_in_mode">Logged In</string>
+    <string name="hub_desktop_ua">Desktop</string>
+    <string name="hub_mobile_ua">Mobile</string>
+    <string name="hub_ads_blocked">Ads Blocked</string>
+    <string name="hub_audio_only_active">Audio-Only Mode Active</string>
+    <string name="hub_audio_only_subtitle">Video canvas hidden to save battery &amp; mobile data</string>
+    <string name="hub_detected_stream">Download Stream</string>
+    <string name="hub_save_to_playlist">Save Link</string>
+
+    <!-- Media Controls -->
+    <string name="media_play">Play</string>
+    <string name="media_pause">Pause</string>
+    <string name="media_next">Next</string>
+    <string name="media_previous">Previous</string>
+    <string name="media_pip">Picture-in-Picture</string>
+    <string name="media_speed">Playback Speed</string>
+    <string name="media_sleep_timer">Sleep Timer</string>
+    <string name="media_audio_only">Audio-Only</string>
+    <string name="media_repeat">Repeat Mode</string>
+    <string name="media_queue">Up Next Queue</string>
+
+    <!-- Explore -->
+    <string name="explore_title">Curated Pulse</string>
+    <string name="explore_subtitle">Live Hindi &amp; Global RSS Streams</string>
+    <string name="explore_add_category">New Category</string>
+    <string name="explore_refresh">Refresh Feeds</string>
+
+    <!-- Playlists -->
+    <string name="playlists_title">Cross-Platform Playlists</string>
+    <string name="playlists_create">New Playlist</string>
+    <string name="playlists_add_item">Add Media Link</string>
+    <string name="playlists_empty">No playlists yet. Create one to queue YouTube, SoundCloud, X, or custom links seamlessly.</string>
+
+    <!-- Downloads -->
+    <string name="downloads_title">Media Downloads</string>
+    <string name="downloads_folder_hint">Saved to /Downloads/OmniStream/</string>
+    <string name="downloads_add_url">Download Direct URL</string>
+    <string name="downloads_empty">No downloads yet. Browse in Stream Hub to detect playable streams or paste a direct .mp4/.mp3 URL.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Studio Settings</string>
+    <string name="settings_theme">Appearance Theme</string>
+    <string name="settings_audio_lock">Strict Audio Focus Lock</string>
+    <string name="settings_audio_lock_desc">Ignore notification chimes &amp; transient volume ducking</string>
+    <string name="settings_background_play">Uninterrupted Background Play</string>
+    <string name="settings_background_play_desc">Keep media active when locked or minimized</string>
+    <string name="settings_adblock">Ad &amp; Tracker Shield</string>
+    <string name="settings_adblock_desc">Block ad networks, pop-ups &amp; Open-in-App prompts</string>
+    <string name="settings_data_saver">Data Saver Mode</string>
+    <string name="settings_data_saver_desc">Block heavy images &amp; prefer audio-first streaming</string>
+    <string name="settings_app_lock">App Lock (Biometric / PIN)</string>
+    <string name="settings_app_lock_desc">Protect private sessions &amp; playlists</string>
+    <string name="settings_backup_export">Export JSON Backup</string>
+    <string name="settings_backup_restore">Restore JSON Backup</string>
+
+    <!-- App Lock -->
+    <string name="lock_title">OmniStream Pro Locked</string>
+    <string name="lock_subtitle">Enter your 4-digit PIN or use biometrics</string>
+    <string name="lock_use_biometric">Unlock with Biometric</string>
+</resources>
